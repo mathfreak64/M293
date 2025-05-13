@@ -1,13 +1,7 @@
-body
+.profile-pic
 {
-    background-color: #212121;
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 30px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid black;
 }
