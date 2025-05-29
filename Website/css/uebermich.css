@@ -10,6 +10,7 @@ body {
   color: white;
   display: flex;
   height: 100vh;
+  max-width: 100%;
 }
 
 .main-content {
